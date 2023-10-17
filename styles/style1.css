@@ -1,0 +1,14 @@
+.title {
+    color: green;
+    font-size: 40px;
+}
+
+.title.title2 {
+    font-size: 30px;
+
+}
+
+ul {
+    background-color: lightgreen;
+}
+
