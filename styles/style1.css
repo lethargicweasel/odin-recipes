@@ -3,12 +3,52 @@
     font-size: 40px;
 }
 
-.title.title2 {
+.title2 {
     font-size: 30px;
-
+    color: green;
+    margin-left: 50px;
 }
 
-ul {
+.all {
+    background-color: #fff;
+    padding: 15px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+.ingre {
     background-color: lightgreen;
+    padding: 10px;
 }
 
+.steps {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.ul {
+    background-color: lightgreen;
+    padding: 10px 0;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.ol {
+    background-color: lightgreen;
+    padding: 10px 0;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+p {
+    margin-left: 50px;
+}
+
+li {
+    margin: 5px;
+}
